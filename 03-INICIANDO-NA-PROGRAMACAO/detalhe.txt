@@ -1,2 +1,0 @@
-Módulo para quem está iniciando na programação, conteúdo lógico de programação.
-Pulei o módulo.
